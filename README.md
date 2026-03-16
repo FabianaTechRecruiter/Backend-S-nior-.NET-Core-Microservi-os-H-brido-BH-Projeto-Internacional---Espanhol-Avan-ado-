@@ -1,59 +1,76 @@
-# Backend-S-nior-.NET-Core-Microservi-os-H-brido-BH-Projeto-Internacional---Espanhol-Avan-ado-
-Link da vaga: https://bhs.gupy.io/jobs/10538353
+✅ 🚀 Pessoa Desenvolvedora Backend Sênior (.NET Core | Microservices)
 
-Responsabilidades:
-Projetar e desenvolver soluções backend robustas, escaláveis e de alto desempenho, com elevado nível de concorrência;
+📍 Modelo: Híbrido — Belo Horizonte
+🌎 Projeto: Internacional
+🗣 Idioma: Espanhol Avançado
 
-Analisar e traduzir requisitos funcionais em especificações técnicas claras, garantindo entregas consistentes e de qualidade;
+Estamos buscando uma pessoa desenvolvedora backend sênior para atuar em um projeto global, com arquitetura moderna, alto volume transacional e desafios técnicos relevantes.
 
-Implementar e manter microserviços distribuídos com escalabilidade horizontal;
+💪 Responsabilidades
 
-Criar e manter documentação técnica (design, APIs, fluxos e manuais quando necessário);
+Projetar e desenvolver APIs e microserviços robustos, escaláveis e de alta performance
 
-Desenvolver e executar testes unitários, de integração e de performance;
+Traduzir requisitos funcionais em especificações técnicas claras
 
-Implementar rotinas de testes funcionais e de carga para microserviços;
+Atuar em ambientes distribuídos com escalabilidade horizontal
 
-Participar ativamente de revisões de código (code review), assegurando o cumprimento de boas práticas e padrões definidos;
+Desenvolver e manter testes unitários, integração e performance
 
-Atuar na manutenção evolutiva e corretiva das soluções;
+Implementar testes funcionais e testes de carga
 
-Realizar troubleshooting de incidentes complexos em ambientes distribuídos;
+Participar ativamente de code reviews
 
-Colaborar com o time de engenharia, promovendo o compartilhamento de conhecimento e evolução técnica contínua.
+Atuar na manutenção evolutiva e corretiva
 
-Requisitos:
+Realizar troubleshooting de incidentes complexos
 
-Espanhol intermediário ou avançado.
+Contribuir com documentação técnica e boas práticas
 
-Graduação em Engenharia da Computação, Engenharia de Software, Ciência da Computação ou áreas correlatas;
+Colaborar com o time promovendo evolução técnica contínua
 
-Experiência em desenvolvimento backend;
+🧠 Requisitos Técnicos
 
-Experiência na construção de microserviços distribuídos;
+Forte experiência em desenvolvimento backend com .NET Core
 
-Experiência com containers (Docker) e arquitetura escalável;
+Experiência na construção de microserviços distribuídos
 
-Sólidos conhecimentos em bancos de dados relacionais;
+Vivência com containers (Docker) e arquitetura escalável
 
-Experiência com controle de versão utilizando Git;
+Sólidos conhecimentos em bancos relacionais (SQL Server / MySQL etc.)
 
-Experiência em ambientes Cloud (preferencialmente Microsoft Azure);
+Experiência com Git
 
-Experiência com ferramentas de testes de APIs (Postman ou similares);
+Experiência em Cloud (preferencialmente Azure)
 
-Experiência com documentação de APIs (Swagger / OpenAPI ou similares);
+Experiência com testes de APIs (Postman ou similares)
 
-Disponibilidade para atuar de forma híbrida em Belo Horizonte/MG (3x na semana).
+Experiência com documentação de APIs (Swagger / OpenAPI)
 
-🎯 Diferenciais:
+⭐ Diferenciais
 
-Experiência com bancos de dados não relacionais (ex: MongoDB);
+Experiência com MongoDB ou outros bancos NoSQL
 
-Experiência em ambientes de alta concorrência e alto volume de transações;
+Vivência em ambientes de alta concorrência e alto volume transacional
 
-Conhecimentos básicos em frontend (React ou Angular);
+Conhecimento básico em React ou Angular
 
-Experiência com sistemas de mensageria (RabbitMQ, MQTT, AMQP);
+Experiência com mensageria (RabbitMQ / AMQP / MQTT)
 
-Vivência com metodologias ágeis de desenvolvimento;
+Experiência com metodologias ágeis
+
+🌎 Sobre o Projeto
+
+Você atuará em um contexto internacional, com interação com times globais e uso do espanhol no dia a dia.
+
+Buscamos alguém com perfil:
+
+🔥 hands-on
+🔥 senso de ownership
+🔥 visão arquitetural
+🔥 autonomia técnica
+🔥 boa comunicação
+
+📩 Como se candidatar
+
+👉 Aplique aqui:
+https://bhs.gupy.io/jobs/10538353
