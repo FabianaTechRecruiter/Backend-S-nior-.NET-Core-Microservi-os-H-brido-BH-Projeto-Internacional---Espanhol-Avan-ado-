@@ -71,6 +71,5 @@ Buscamos alguém com perfil:
 🔥 boa comunicação
 
 📩 Como se candidatar
-
 👉 Aplique aqui:
 https://bhs.gupy.io/jobs/10538353
